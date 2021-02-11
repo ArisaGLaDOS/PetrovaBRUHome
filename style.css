@@ -1,0 +1,67 @@
+body {
+    background-color: aqua;
+    background-image: url(bubble1.png);
+   }
+
+.heading {
+      text-align: center;
+      font-family: cursive;
+      font-size: 30px;
+      color: rgb(55, 0, 255);
+      text-decoration: underline;
+   }
+
+.facts {
+    font-family: cursive;
+    margin: 30px;
+    color: rgb(47, 39, 77);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: justify;
+   }
+
+.story {
+      font-family: cursive;
+      margin: 30px;
+      color: rgb(47, 39, 77);
+      font-size: 20px;
+      font-weight: lighter;
+      text-align: justify;
+   }
+
+.story:first-letter {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 25px;
+   text-decoration: overline;
+   color: blue;   
+   }
+
+img.fish {
+   opacity: 90%;
+   border: 5px;
+   border-style: outset;
+   border-color: rgb(7, 250, 40);
+   display: block;
+   margin: 20px auto;
+   }
+
+img.fish:hover {
+    opacity: 60%;
+    border-color: rgb(255, 255, 255);
+   }
+
+.link {
+   font-style: italic;
+}
+
+.link:link {
+       color:rgb(255, 0, 0);
+   }
+
+.link:visited {
+    color:rgb(253, 252, 253);
+   }
+
+
+
+  
