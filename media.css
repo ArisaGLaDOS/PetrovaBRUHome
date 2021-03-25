@@ -1,0 +1,39 @@
+@media only screen and (max-width: 575px){
+    .home {
+        flex-wrap: wrap;
+    }
+
+    .home-img {
+        width: 100%;
+    }
+
+    .nav {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .home-info {
+        width: 100%;
+    }
+
+    .my-skills {
+        flex-wrap: wrap;
+    }
+
+    .features {
+        flex-wrap: wrap;
+    }
+    .my-experience {
+        flex-wrap: wrap;
+    }
+
+    .my-education {
+        flex-wrap: wrap;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1200px) {
+   
+
+    
+  }
